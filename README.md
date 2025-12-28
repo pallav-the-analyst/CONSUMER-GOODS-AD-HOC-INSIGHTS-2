@@ -1,5 +1,5 @@
 # Consumer-Goods-Ad-Hoc-Insights-2
-This is my ad-hoc project using MySQL on AtliQ Hardware 
+This is my Ad-Hoc project using MySQL on AtliQ Hardware 
 
 # INTRODUCTION :
 Atliq Hardwares is one of the leading computer hardware producers in India and well expanded in other countries too.
