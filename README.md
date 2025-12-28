@@ -1,17 +1,17 @@
-# <a href="" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=KlkfbDEjskb5&format=png&color=000000" width="35" /></a> Consumer-Goods-Ad-Hoc-Insights-2
+# Consumer-Goods-Ad-Hoc-Insights-2
 This is my ad-hoc project using MySQL on AtliQ Hardware 
 
-# <a href="" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=FkqjAX6ZGe4B&format=png&color=000000" width="35" /></a> INTRODUCTION :
+# INTRODUCTION :
 Atliq Hardwares is one of the leading computer hardware producers in India and well expanded in other countries too.
 
-# <a href="" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=9oTCQxbJ7BPy&format=png&color=000000" width="35" /></a> Problem Statement: 
+# Problem Statement: 
 The management noticed that they do not get enough insights to make quick and smart data-informed decisions. 
 
-# <a href="" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=B9dt5a2xAqNl&format=png&color=000000" width="35" /></a> Objective: 
+# Objective: 
 - Address all ad-hoc requests.
 - Uncover hidden insights to meet the business needs.
 
-# <a href="" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=zeuUPoSqsDd3&format=png&color=000000" width="35" /></a>  Requests:
+# Requests:
 
 - Provide the list of markets in which customer **"Atliq Exclusive"** operates its
 business in the **APAC region.**
